@@ -1,0 +1,93 @@
+body{
+    margin: 0px 300px;
+    background-color: black;
+}
+.cv_container{ 
+    background-color:white;
+    height: 150vh;
+    padding: 30px 70px;
+    
+}
+.name_container{
+    
+    font-size: 1.7rem;
+}
+.name_container p{
+    margin: 2px 0px;
+
+}
+
+.container1{
+    margin-bottom: 30px;
+}
+
+.gris_1{
+    color: rgb(163, 158, 158);
+}
+.gris_2{
+    color: rgb(202, 197, 197);
+}
+.violet{
+    color: rgb(158, 22, 158);
+}
+.black{
+    color: black;
+}
+.adresse_container{
+    font-size: 0.8rem;
+}
+.adresse_container p{
+    margin: 2px 0px;
+
+}
+hr{
+    border: 1px dashed rgb(161, 160, 160);
+}
+
+.container2 {
+    margin-bottom: 170px;
+  }
+  
+.type {
+    float: left;
+    
+  }
+.info1 {
+    float: right;
+    font-size: 0.9rem;
+    margin-right: 240px;
+   
+  }
+.title{
+    font-size:20px;
+    color: black;
+}
+.container3 {
+    margin-bottom: 300px;
+  }
+.info2 {
+    float: right;
+    font-size: 0.9rem;
+   
+  }
+.container4 {
+    margin-bottom: 170px;
+  }
+.info3 {
+    float: right;
+    font-size: 0.9rem;
+    margin-right: 170px
+   
+  }
+.container5 {
+    margin-bottom: 120px;
+  }
+.info4 {
+    float: right;
+    font-size: 0.9rem;
+    margin-right: 300px
+   
+  }
+  
+
+
